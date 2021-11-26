@@ -1,0 +1,343 @@
+.product-list {
+    background-color: white;
+    height: 900px;
+    position: relative;
+    width: 100%;
+}
+
+.product-list .overlap-group9 {
+    height: 17px;
+    /* left: 652px; */
+    position: relative;
+    /* top: 112px; */
+    width: 100%;
+    font-family: Roboto;
+    font-size: 14px;
+    color: black;
+    padding-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.product-list .overlap-group9 a {
+    color: black;
+}
+
+.product-list .place {
+    color: #00000099;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 60px;
+}
+
+.product-list .produk {
+    color: black;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    left: 63px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 60px;
+}
+
+.product-list .keyboardarrowright {
+    height: 16px;
+    left: 52px;
+    position: absolute;
+    top: 1px;
+    width: 16px;
+}
+
+.product-list .overlap-group {
+    background-image: url(assets/vector.svg);
+    background-size: 100% 100%;
+    height: 8px;
+    left: 5px;
+    position: relative;
+    top: 4px;
+    width: 6px;
+}
+
+.product-list .vector {
+    height: 1px;
+    left: 3px;
+    position: absolute;
+    top: 4px;
+    width: 1px;
+}
+
+/* CARD //// */
+
+.product-list .card {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 243px;
+    /* left: 173px; */
+    overflow: hidden;
+    position: relative;
+    /* top: 190px; */
+    width: 344px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.product-list .card_text {
+    width:100%;
+    text-align: center;
+    padding-top: 35%;
+}
+
+/* /////////// */
+
+.product-list .nav-bg {
+    background-color: red;
+    height: 52px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+.product-list .promosi {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 16px;
+    left: 931px;
+    position: fixed;
+    top: 17px;
+    width: 80px;
+}
+
+.product-list .produk-1 {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 1028px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 96px;
+}
+
+.product-list .ruangan {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 1139px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 0px;
+    width: 96px;
+}
+
+.product-list .transliving-logo {
+    height: 37px;
+    left: 168px;
+    object-fit: cover;
+    position: fixed;
+    top: 11px;
+    width: 221px;
+}
+
+.product-list .wishlist {
+    height: 31px;
+    left: 1294px;
+    position: fixed;
+    top: 14px;
+    width: 31px;
+}
+
+.product-list .overlap-group7 {
+    height: 24px;
+    left: 3px;
+    position: relative;
+    top: 3px;
+    width: 26px;
+}
+
+.product-list .vector-1 {
+    height: 1px;
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    width: 1px;
+}
+
+.product-list .vector-2 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 26px;
+}
+
+.product-list .search {
+    height: 35px;
+    left: 1363px;
+    position: fixed;
+    top: 10px;
+    width: 36px;
+}
+
+.product-list .overlap-group8 {
+    height: 26px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 27px;
+}
+
+.product-list .vector-3 {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    width: 1140px;
+    margin: 0 auto;
+    margin-top:60px;
+    position: relative;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/* mobile below */
+
+.mobile_menu_btn {
+    display: none;
+}
+
+#mobile_menu .mm_close{
+    display:none;
+}
+
+#mobile_menu .mm_item{
+    display:none;
+    padding-left:20px;
+    padding-top:30px;
+}
+
+@media (max-width: 500px) {
+   
+
+
+    .container-center-horizontal {
+        width: 90%;
+    }
+
+    .product-list .transliving-logo {
+        left: 28px;
+    }
+
+    .mobile_menu_btn {
+        display: block;
+        position: fixed;
+        top:16px;
+        left:16px;
+        width: 20px;
+        height: 20px;
+        background-image:url(menu_icon.png);
+        background-size:cover;
+        
+    }
+
+    #mobile_menu {
+        display:block;
+        position: fixed;
+        top: 0;
+        left: -200px;
+        width: 200px;
+        height: 100vh;
+        background-color: #434343;
+        transition: left 1s;
+
+    }
+
+    #mobile_menu .mm_close{
+        display:block;
+        position:absolute;
+        top:30px;
+        left:165px;
+        color: white;
+        font-size: large;
+        font-weight: bolder;
+        font-family: Roboto;
+
+    }
+
+    #mobile_menu .mm_item{
+        display:block;
+        color: white;
+        font-size: large;
+        font-weight: bolder;
+        font-family: Roboto;
+
+
+    }
+
+
+    .product-list .wishlist {
+        left: 280px;
+        top:12px;
+        height: 20px;
+        width: 20px;
+        object-fit: cover;
+    
+    }
+
+    .product-list .search {
+        left: 320px;
+        top:12px;
+        width:20px;
+        height: 20px;
+        object-fit: cover;
+       
+        
+    }
+    .product-list .transliving-logo {
+        height: 28px;
+        left: 50px;
+        object-fit: cover;
+        position: fixed;
+        top: 16px;
+        width: 145px;
+    }
+
+
+}

@@ -1,0 +1,458 @@
+.product-details {
+    background-color: white;
+    height: 900px;
+    position: relative;
+    width: 1440px;
+}
+
+.product-details .overlap-group7 {
+    height: 17px;
+    left: 566px;
+    position: absolute;
+    top: 113px;
+    width: 307px;
+}
+
+.product-details .place {
+    color: #00000099;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 60px;
+}
+
+.product-details .produk {
+    color: #00000099;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    left: 63px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 60px;
+}
+
+.product-details .text-1 {
+    color: black;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    left: 131px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 176px;
+}
+
+.product-details .keyboardarrowright {
+    height: 16px;
+    left: 52px;
+    position: absolute;
+    top: 1px;
+    width: 16px;
+}
+
+.product-details .overlap-group {
+    background-image: url(vector.svg);
+    background-size: 100% 100%;
+    height: 8px;
+    left: 5px;
+    position: relative;
+    top: 4px;
+    width: 6px;
+}
+
+.product-details .vector {
+    height: 1px;
+    left: 3px;
+    position: absolute;
+    top: 4px;
+    width: 1px;
+}
+
+.product-details .keyboardarrowright-1 {
+    height: 16px;
+    left: 120px;
+    position: absolute;
+    top: 1px;
+    width: 16px;
+}
+
+.product-details .peralatan-makan {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    left: 175px;
+    overflow: hidden;
+    position: absolute;
+    top: 203px;
+    width: 344px;
+    border-radius: 10px;
+}
+
+.product-details .overlap-group2 {
+    background-image: url(image-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 325px;
+    left: -35px;
+    position: relative;
+    top: -82px;
+    width: 487px;
+}
+
+.product-details .furnitur {
+    height: 149px;
+    left: 94px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 129px;
+    width: 226px;
+}
+
+.product-details .peralatan-masak {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    height: 243px;
+    left: 544px;
+    overflow: hidden;
+    position: absolute;
+    top: 203px;
+    width: 344px;
+    border-radius: 10px;
+}
+
+.product-details .overlap-group3 {
+    background-image: url(image-1-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 325px;
+    left: -35px;
+    position: relative;
+    top: -82px;
+    width: 487px;
+}
+
+.product-details .perlengkapan-dapur {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 243px;
+    left: 913px;
+    overflow: hidden;
+    position: absolute;
+    top: 203px;
+    width: 344px;
+}
+
+.product-details .overlap-group4 {
+    background-image: url(image-1-2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 325px;
+    left: -35px;
+    position: relative;
+    top: -82px;
+    width: 487px;
+}
+
+.product-details .nav-bg {
+    background-color: red;
+    height: 52px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 1440px;
+}
+
+.product-details .promosi {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 16px;
+    left: 694px;
+    position: fixed;
+    top: 17px;
+    width: 80px;
+}
+
+.product-details .produk-1 {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 826px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 96px;
+}
+
+.product-details .ruangan {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 967px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 0px;
+    width: 96px;
+}
+
+.product-details .transliving-logo {
+    height: 37px;
+    left: 168px;
+    object-fit: cover;
+    position: fixed;
+    top: 11px;
+    width: 221px;
+}
+
+.product-details .wishlist {
+    height: 31px;
+    left: 1131px;
+    position: fixed;
+    top: 14px;
+    width: 31px;
+}
+
+.product-details .overlap-group5 {
+    height: 24px;
+    left: 3px;
+    position: relative;
+    top: 3px;
+    width: 26px;
+}
+
+.product-details .vector-1 {
+    height: 1px;
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    width: 1px;
+}
+
+.product-details .vector-2 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 26px;
+}
+
+.product-details .search {
+    height: 35px;
+    left: 1203px;
+    position: fixed;
+    top: 10px;
+    width: 36px;
+}
+
+.product-details .overlap-group6 {
+    background-image: url(vector-4.svg);
+    background-size: 100% 100%;
+    height: 26px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 27px;
+}
+
+.product-details .vector-3 {
+    height: 1px;
+    left: 14px;
+    position: absolute;
+    top: 13px;
+    width: 1px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:700|Work+Sans:700");
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+/* mobile below */
+
+.mobile_menu_btn {
+    display: none;
+}
+
+#mobile_menu .mm_close{
+    display:none;
+}
+
+#mobile_menu .mm_item{
+    display:none;
+    padding-left:20px;
+    padding-top:30px;
+}
+
+/* card */
+
+
+
+.product-details .overlap-group4 {
+    
+}
+
+.card {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 243px;
+    overflow: hidden;
+    width: 33%;
+    float:left;
+    position: relative;
+}
+
+.ccont {
+    background-image: url(image-1-2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 325px;
+    left: -35px;
+    position: relative;
+    top: -82px;
+    width: 487px;
+}
+/* */
+
+@media (max-width: 500px) {
+    .container-center-horizontal {
+        width: 90%;
+    }
+    .product-details {
+        width:90%;
+    }
+    .product-details .nav-bg {
+        width: 100%;
+    }
+
+    .product-list .transliving-logo {
+        left: 28px;
+    }
+
+    .mobile_menu_btn {
+        display: block;
+        position: fixed;
+        top:16px;
+        left:16px;
+        width: 20px;
+        height: 20px;
+        background-image:url(menu_icon.png);
+        background-size:cover;
+        
+    }
+
+    #mobile_menu {
+        display:block;
+        position: fixed;
+        top: 0;
+        left: -200px;
+        width: 200px;
+        height: 100vh;
+        background-color: #434343;
+        transition: left 1s;
+
+    }
+
+    #mobile_menu .mm_close{
+        display:block;
+        position:absolute;
+        top:30px;
+        left:165px;
+        color: white;
+        font-size: large;
+        font-weight: bolder;
+        font-family: Roboto;
+
+    }
+
+    #mobile_menu .mm_item{
+        display:block;
+        color: white;
+        font-size: large;
+        font-weight: bolder;
+        font-family: Roboto;
+
+
+    }
+
+
+    .product-details .wishlist {
+        left: 280px;
+        top:12px;
+        height: 20px;
+        width: 20px;
+        object-fit: cover;
+    
+    }
+
+    .product-details .search {
+        left: 320px;
+        top:12px;
+        width:20px;
+        height: 20px;
+        object-fit: cover;
+       
+        
+    }
+    .product-details .transliving-logo {
+        height: 28px;
+        left: 50px;
+        object-fit: cover;
+        position: fixed;
+        top: 16px;
+        width: 145px;
+    }
+    .product-details .promosi {
+        display:none;
+    }
+    .product-details .produk-1 {
+        display:none;
+        
+    }
+    .product-details .ruangan {
+        display:none;
+    }
+}
