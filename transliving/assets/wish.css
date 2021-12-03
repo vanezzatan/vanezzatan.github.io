@@ -1,30 +1,31 @@
-.product-list {
+.wishlist {
     background-color: white;
     height: 900px;
     position: relative;
     width: 100%;
 }
 
-.product-list .overlap-group9 {
-    height: 17px;
+.wishlist .image-2 {
+    height: 464px;
+    object-fit: cover;
     position: relative;
-    width: 100%;
-    font-family: Roboto;
-    font-size: 14px;
-    color: black;
-    padding-top: 60px;
-    margin-bottom: 60px;
-    text-align: center;
+    width: 464px;
+    margin:0 auto;
+    display: -webkit-box;
 }
 
-.product-list .overlap-group9 a {
-    color: black;
+.wishlist .overlap-group3 {
+    height: 17px;
+    left: 643px;
+    position: absolute;
+    top: 124px;
+    width: 123px;
 }
 
-.product-list .place {
+.wishlist .place {
     color: #00000099;
     font-family: Roboto;
-    font-size: 14px;
+    font-size: small;
     font-weight: 700;
     left: 0;
     letter-spacing: 0;
@@ -34,10 +35,10 @@
     width: 60px;
 }
 
-.product-list .produk {
+.wishlist .wishlist-1 {
     color: black;
     font-family: Roboto;
-    font-size: 14px;
+    font-size: small;
     font-weight: 700;
     left: 63px;
     letter-spacing: 0;
@@ -47,7 +48,7 @@
     width: 60px;
 }
 
-.product-list .keyboardarrowright {
+.wishlist .keyboardarrowright {
     height: 16px;
     left: 52px;
     position: absolute;
@@ -55,8 +56,8 @@
     width: 16px;
 }
 
-.product-list .overlap-group {
-    background-image: url(assets/vector.svg);
+.wishlist .overlap-group {
+    background-image: url(vector.svg);
     background-size: 100% 100%;
     height: 8px;
     left: 5px;
@@ -65,7 +66,7 @@
     width: 6px;
 }
 
-.product-list .vector {
+.wishlist .vector {
     height: 1px;
     left: 3px;
     position: absolute;
@@ -73,147 +74,60 @@
     width: 1px;
 }
 
-/* CARD //// */
-
-.product-list .card {
-    color: white;
-    font-size: 18px;
+.wishlist .text-1 {
+    color: black;
     font-family: Roboto;
-    font-weight: bold;
+    font-size: medium;
+    font-weight: 700;
+    letter-spacing: 0;
+    position: relative;
+    text-align: center;
+    width: 290px;
+    height: 50px;   
+    margin: 0 auto;
+}
+
+.wishlist .span0 {
+    color: black;
+    font-weight: 700;
+}
+
+.wishlist .span1 {
+    color: #000000b2;
+    font-size: small;
+    font-weight: 400;
+}
+
+.wishlist .overlap-group4 {
+    background-color: #fa0c0ce6;
     border-radius: 10px;
-    height: 243px;
-    overflow: hidden;
+    height: 44px;
     position: relative;
-    width: 344px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    float: left;
-    margin-right: 30px;
-    margin-bottom: 30px;
+    width: 132px;
+    display: -webkit-box;
+    margin:0 auto;
+
 }
 
-.product-list .card_text {
-    width:100%;
-    text-align: center;
-    padding-top: 35%;
-}
-
-/* /////////// */
-
-.product-list .nav-bg {
-    background-color: red;
-    height: 52px;
+.wishlist .browse {
+    color: white;
+    font-family: Roboto;
+    font-size: medium;
+    font-weight: 700;
+    height: 43px;
     left: 0;
-    position: fixed;
-    top: 0;
-    width: 100vw;
-}
-
-.product-list .promosi {
-    color: white;
-    font-size: large;
-    font-weight: bolder;
-    font-family: Roboto;
-    height: 16px;
-    left: 931px;
-    position: fixed;
-    top: 17px;
-    width: 80px;
-}
-
-.product-list .produk-1 {
-    color: white;
-    font-size: large;
-    font-weight: bolder;
-    font-family: Roboto;
-    height: 52px;
-    left: 1028px;
     letter-spacing: 0;
-    position: fixed;
+    position: absolute;
     text-align: center;
     top: 0;
-    width: 96px;
+    width: 132px;
 }
 
-.product-list .ruangan {
-    color: white;
-    font-size: large;
-    font-weight: bolder;
-    font-family: Roboto;
-    height: 52px;
-    left: 1139px;
-    letter-spacing: 0;
-    position: fixed;
-    text-align: center;
-    top: 0px;
-    width: 96px;
-}
 
-.product-list .transliving-logo {
-    height: 37px;
-    left: 168px;
-    object-fit: cover;
-    position: fixed;
-    top: 11px;
-    width: 221px;
-}
 
-.product-list .wishlist {
-    height: 31px;
-    left: 1294px;
-    position: fixed;
-    top: 14px;
-    width: 31px;
-}
 
-.product-list .overlap-group7 {
-    height: 24px;
-    left: 3px;
-    position: relative;
-    top: 3px;
-    width: 26px;
-}
 
-.product-list .vector-1 {
-    height: 1px;
-    left: 12px;
-    position: absolute;
-    top: 12px;
-    width: 1px;
-}
-
-.product-list .vector-2 {
-    height: 24px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 26px;
-}
-
-.product-list .search {
-    height: 35px;
-    left: 1363px;
-    position: fixed;
-    top: 10px;
-    width: 36px;
-}
-
-.product-list .overlap-group8 {
-    height: 26px;
-    left: 4px;
-    position: relative;
-    top: 4px;
-    width: 27px;
-}
-
-.product-list .vector-3 {
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-}
-
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700|Work+Sans:700");
 .screen a {
     display: contents;
     text-decoration: none;
@@ -232,6 +146,136 @@
     justify-content: center;
 }
 
+
+.wishlist .overlap-group9 {
+    height: 17px;
+    position: relative;
+    width: 100%;
+    font-family: Roboto;
+    font-size: 14px;
+    color: black;
+    padding-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+/* navigation */
+
+.wishlist .nav-bg {
+    background-color: red;
+    height: 52px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+.wishlist .promosi {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 16px;
+    left: 931px;
+    position: fixed;
+    top: 17px;
+    width: 80px;
+}
+
+.wishlist .produk-1 {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 1028px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 96px;
+}
+
+.wishlist .ruangan {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 1139px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 0px;
+    width: 96px;
+}
+
+.wishlist .transliving-logo {
+    height: 37px;
+    left: 168px;
+    object-fit: cover;
+    position: fixed;
+    top: 11px;
+    width: 221px;
+}
+
+.wishlist .wishlist_menu{
+    height: 31px;
+    left: 1294px;
+    position: fixed;
+    top: 14px;
+    width: 31px;
+}
+
+.wishlist .overlap-group7 {
+    height: 24px;
+    left: 3px;
+    position: relative;
+    top: 3px;
+    width: 26px;
+}
+
+.wishlist .vector-1 {
+    height: 1px;
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    width: 1px;
+}
+
+.wishlist .vector-2 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 26px;
+}
+
+.wishlist .search {
+    height: 35px;
+    left: 1363px;
+    position: fixed;
+    top: 10px;
+    width: 36px;
+}
+
+.wishlist .overlap-group8 {
+    height: 26px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 27px;
+}
+
+.wishlist .vector-3 {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+/* */
 
 /* mobile below */
 
@@ -254,7 +298,7 @@
         width: 90%;
     }
 
-    .product-list .transliving-logo {
+    .wishlist .transliving-logo {
         left: 28px;
     }
 
@@ -301,7 +345,7 @@
         font-family: Roboto;
     }
 
-    .product-list .wishlist {
+    .wishlist .wishlist {
         left: 280px;
         top:12px;
         height: 20px;
@@ -309,7 +353,7 @@
         object-fit: cover;
     }
 
-    .product-list .search {
+    .wishlist .search {
         left: 320px;
         top:12px;
         width:20px;
@@ -317,7 +361,7 @@
         object-fit: cover;    
     }
     
-    .product-list .transliving-logo {
+    .wishlist .transliving-logo {
         height: 28px;
         left: 50px;
         object-fit: cover;
@@ -325,6 +369,11 @@
         top: 16px;
         width: 145px;
     }
-   
+
+    .wishlist img.image-2 {
+    width: 100%;
+    height: auto;
+    }
+
 
 }

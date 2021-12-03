@@ -1,0 +1,654 @@
+.homepage {
+    background-color: white;
+    height: 2049px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.homepage .overlap-group1 {
+    background-color: #E91010;
+    height: 670px;
+    left: 0;
+    position: absolute;
+    top: 1379px;
+    width: 100%;
+}
+
+.homepage .footer-logo {
+    height: 48px;
+    left: 160px;
+    object-fit: cover;
+    position: absolute;
+    top: 94px;
+    width: 352px;
+}
+
+.homepage .instagram-logo {
+    transform: scale(3.0);
+    height: 48px;
+    left: 176px;
+    position: absolute;
+    top: 175px;
+    width: 48px;
+}
+
+.homepage .text-infoa {
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    height: 48px;
+    left: 600px;
+    position: absolute;
+    top: 100px;
+    width: 200px;
+}
+
+.homepage .text-infob {
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    height: 48px;
+    right: 100px;
+    position: absolute;
+    top: 100px;
+    width: 200px;
+}
+
+.homepage .text-info2 {
+    font-size: larger;
+    font-weight: bold;
+    height: 48px;
+    left: 600px;
+    position: absolute;
+    top: 150px;
+    width: 200px;
+}
+
+.homepage .facebook-logo {
+    transform: scale(3.0);
+    height: 48px;
+    left: 256px;
+    overflow: hidden;
+    position: absolute;
+    top: 175px;
+    width: 48px;
+}
+
+.homepage .vector {
+    height: 41px;
+    left: 19px;
+    position: absolute;
+    top: 7px;
+    width: 22px;
+}
+
+.homepage .vector-1 {
+    height: 192px;
+    left: 543px;
+    position: absolute;
+    top: 76px;
+    width: 3px;
+}
+
+.homepage .rectangle-27 {
+    height: 434px;
+    left: 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    object-fit: cover;
+}
+
+.homepage .rectangle-21 {
+    background-color: turquoise;
+    height: 32px;
+    left: 705px;
+    position: absolute;
+    top: 80px;
+    width: 127px;
+}
+
+.homepage .rectangle-22 {
+    background-color: turquoise;
+    height: 32px;
+    left: 864px;
+    position: absolute;
+    top: 80px;
+    width: 128px;
+}
+
+.homepage .rectangle-23 {
+    background-color: turquoise;
+    height: 32px;
+    left: 1024px;
+    position: absolute;
+    top: 80px;
+    width: 128px;
+}
+
+.homepage .rectangle-24 {
+    background-color: turquoise;
+    height: 32px;
+    left: 1184px;
+    position: absolute;
+    top: 80px;
+    width: 128px;
+}
+
+.homepage .flash-sale {
+    color: red;
+    font-family: Work Sans;
+    font-size: 70px;
+    font-weight: 700;
+    height: 5px;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: middle;
+    top: 0;
+    width: 608px;
+}
+
+.homepage .overlap-group2 {
+    background-color: red;
+    height: 96px;
+    /* left: 688px; */
+    position: relative;
+    /* top: 640px; */
+    width: 33%;
+    float: left;
+}
+
+.homepage .overlap-group3 {
+    background-color: orange;
+    height: 96px;
+    /* left: 0; */
+    position: relative;
+    /* top: 640px; */
+    width: 67%;
+    float: left;
+}
+
+.homepage .text-1 {
+    color: white;
+    font-family: family-uchen;
+    font-size: 70px;
+    font-weight: 400;
+    height: 96px;
+    left: 5;
+    letter-spacing: 19.20px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 288px;
+}
+
+.homepage .rectangle-14 {
+    border-style: solid;
+    border-color: red;
+    background-color: white;
+    border-radius: 5px;
+    border-color: red;
+    height: 320px;
+    left: 96px;
+    position: absolute;
+    top: 800px;
+    width: 320px;
+}
+
+.homepage .rectangle-15 {
+    border-style: solid;
+    border-color: red;
+    background-color: orange;
+    border-radius: 10px;
+    height: 112px;
+    left: 96px;
+    position: absolute;
+    top: 1152px;
+    width: 320px;
+}
+
+.homepage .rectangle-16 {
+    border-style: solid;
+    border-color: red;
+    background-color: white;
+    border-radius: 10px;
+    height: 320px;
+    left: 496px;
+    position: absolute;
+    top: 801px;
+    width: 320px;
+}
+
+.homepage .rectangle-30 {
+    border-style: solid;
+    border-color: red;
+    background-color: white;
+    border-radius: 10px;
+    height: 320px;
+    left: 896px;
+    position: absolute;
+    top: 801px;
+    width: 320px;
+}
+
+.homepage .rectangle-17 {
+    border-style: solid;
+    border-color: red;
+    background-color: orange;
+    border-radius: 10px;
+    height: 112px;
+    left: 496px;
+    position: absolute;
+    top: 1152px;
+    width: 320px;
+}
+
+.homepage .rectangle-31 {
+    border-style: solid;
+    border-color: red;
+    background-color: orange;
+    border-radius: 10px;
+    height: 112px;
+    left: 896px;
+    position: absolute;
+    top: 1152px;
+    width: 320px;
+}
+
+.homepage .rectangle-30-1 {
+    border-style: solid;
+    border-color: red;
+    background-color: white;
+    border-radius: 10px;
+    height: 320px;
+    left: 1297px;
+    position: absolute;
+    top: 801px;
+    width: 237px;
+}
+
+.homepage .rectangle-31-1 {
+    border-style: solid;
+    border-color: red;
+    background-color: orange;
+    border-radius: 10px;
+    height: 112px;
+    left: 1297px;
+    position: absolute;
+    top: 1152px;
+    width: 237px;
+}
+
+
+
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:700|Uchen:400");
+
+
+/* rectangles */
+
+.rect_container {
+    position: relative;
+    width: 100%;
+    height: 486px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    margin-top: 128px;
+}
+
+.each_rect {
+    position: relative;
+    width: 320px;
+    height: 100%;
+    margin-right: 80px;
+    display: inline-block;
+    /* background-color: red; */
+}
+
+.top_rec {
+    position: relative;
+    width: calc(100% - 10px);
+    height: 310px;
+    margin-bottom: 32px;
+    border: 5px solid #E91010;
+    border-radius: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.bottom_rect {
+    position: relative;
+    width: calc(100% - 4px);
+    height: 108px;
+    border: 2px solid #E91010;
+    border-radius: 10px;
+    background-color: #FBC317;
+}
+
+.rect_text {
+    position: absolute;
+    width: 100%;
+    top: 16px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #E91010;
+    line-height: 35px;
+}
+
+.rect_text span {
+    font: inherit;
+    color: white;
+}
+
+.homepage .text-info a {
+    color: white
+}
+
+.homepage .wishlistn {
+    color: red;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 16px;
+    left: 696px;
+    position: relative;
+    top: 80px;
+    width: 80px;
+    float: left;
+}
+
+.homepage .prolist {
+    color: red;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 16px;
+    left: 850px;
+    position: relative;
+    top: 80px;
+    width: 100px;
+    float: left;
+}
+
+.homepage .prodet {
+    color: red;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 16px;
+    left: 1010px;
+    position: relative;
+    top: 80px;
+    width: 130px;
+    float: left;
+}
+
+.homepage .column {
+    float: left;
+    width: 10%;
+    padding: 10px;
+    height: 300px;
+    /* Should be removed. Only for demonstration */
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* ////// */
+
+.homepage .nav-bg {
+    background-color: red;
+    height: 52px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+.homepage .promosi {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 16px;
+    left: 931px;
+    position: fixed;
+    top: 17px;
+    width: 80px;
+}
+
+.homepage .produk-1 {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 1028px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 96px;
+}
+
+.homepage .ruangan {
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: Roboto;
+    height: 52px;
+    left: 1139px;
+    letter-spacing: 0;
+    position: fixed;
+    text-align: center;
+    top: 0px;
+    width: 96px;
+}
+
+.homepage .transliving-logo {
+    height: 37px;
+    left: 168px;
+    object-fit: cover;
+    position: fixed;
+    top: 11px;
+    width: 221px;
+}
+
+.homepage .wishlist {
+    height: 31px;
+    left: 1294px;
+    position: fixed;
+    top: 14px;
+    width: 31px;
+}
+
+.homepage .overlap-group7 {
+    height: 24px;
+    left: 3px;
+    position: relative;
+    top: 3px;
+    width: 26px;
+}
+
+.homepage .vector-1 {
+    height: 1px;
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    width: 1px;
+}
+
+.homepage .vector-2 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 26px;
+}
+
+.homepage .search {
+    height: 35px;
+    left: 1363px;
+    position: fixed;
+    top: 10px;
+    width: 36px;
+}
+
+.homepage .overlap-group8 {
+    height: 26px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 27px;
+}
+
+.homepage .vector-3 {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    width: 100%;
+    margin: 0 auto;
+    margin-top:60px;
+    position: relative;
+}
+
+.valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/* mobile below */
+
+.mobile_menu_btn {
+    display: none;
+}
+
+#mobile_menu .mm_close{
+    display:none;
+}
+
+#mobile_menu .mm_item{
+    display:none;
+    padding-left:20px;
+    padding-top:30px;
+}
+
+@media (max-width: 500px) {
+    .container-center-horizontal {
+        width: 90%;
+    }
+
+    .homepage .transliving-logo {
+        left: 28px;
+    }
+
+    .mobile_menu_btn {
+        display: block;
+        position: fixed;
+        top:16px;
+        left:16px;
+        width: 20px;
+        height: 20px;
+        background-image:url(menu_icon.png);
+        background-size:cover;
+    }
+
+    #mobile_menu {
+        display:block;
+        position: fixed;
+        top: 0;
+        left: -200px;
+        width: 200px;
+        height: 100vh;
+        background-color: #434343;
+        transition: left 1s;
+
+    }
+
+    #mobile_menu .mm_close{
+        display:block;
+        position:absolute;
+        top:30px;
+        left:165px;
+        color: white;
+        font-size: large;
+        font-weight: bolder;
+        font-family: Roboto;
+
+    }
+
+    #mobile_menu .mm_item{
+        display:block;
+        color: white;
+        font-size: large;
+        font-weight: bolder;
+        font-family: Roboto;
+    }
+
+    .homepage .wishlist {
+        left: 280px;
+        top:12px;
+        height: 20px;
+        width: 20px;
+        object-fit: cover;
+    }
+
+    .homepage .search {
+        left: 320px;
+        top:12px;
+        width:20px;
+        height: 20px;
+        object-fit: cover;    
+    }
+    
+    .homepage .transliving-logo {
+        height: 28px;
+        left: 50px;
+        object-fit: cover;
+        position: fixed;
+        top: 16px;
+        width: 145px;
+    }
+    .homepage .rectangle-27{
+        height: 100px;
+        margin-top: 53px;
+    }
+
+
+    .homepage .overlap-group2, .homepage .overlap-group3 {
+        display: none;
+    }
+    .rect_container{
+        margin-top: 54px;
+    }
+    .homepage .footer-logo{
+        display:none;
+    }
+    .homepage .instagram-logo{
+        display:none;
+    }
+    .homepage .facebook-logo{
+        display:none;
+    }
+}
